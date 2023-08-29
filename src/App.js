@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Navbar } from "./components/navbar";
@@ -24,3 +25,5 @@ function App() {
 }
 
 export default App;
+=======
+>>>>>>> 63830ed382ec95d531c0ecf9c13360efe6fae989
