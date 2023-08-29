@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "title": "IPhone 11",
+            "price": 750,
+            "description": "The iPhone 11 is a powerful and feature-rich smartphone...",
+            "image": "/assets/images/products/iphone11.png"
+        },
+        {
+            "id": 1,
+            "title": "IPhone 11 Pro Max",
+            "price": 800,
+            "description": "The iPhone 11 Pro Max is the ultimate iPhone with an incredible camera...",
+            "image": "/assets/images/products/iphone11promax.png"
+        },
+        {
+            "id": 2,
+            "title": "IPhone 12 Mini",
+            "price": 950,
+            "description": "The iPhone 12 Mini offers the power of the iPhone 12 in a compact size...",
+            "image": "/assets/images/products/iphone12mini.png"
+        },
+        {
+            "id": 3,
+            "title": "IPhone 12",
+            "price": 1050,
+            "description": "The iPhone 12 is a flagship smartphone with 5G capabilities...",
+            "image": "/assets/images/products/iphone12.png"
+        },
+        {
+            "id": 4,
+            "title": "IPhone 12 Pro",
+            "price": 1150,
+            "description": "The iPhone 12 Pro is designed for professionals with its advanced camera...",
+            "image": "/assets/images/products/iphone12pro.png"
+        },
+        {
+            "id": 5,
+            "title": "IPhone 12 Pro Max",
+            "price": 1250,
+            "description": "The iPhone 12 Pro Max is the largest and most powerful iPhone...",
+            "image": "/assets/images/products/iphone12promax.png"
+        },
+        {
+            "id": 6,
+            "title": "Samsung Galaxy S21",
+            "price": 900,
+            "description": "The Samsung Galaxy S21 is a flagship Android smartphone with a stunning display...",
+            "image": "/assets/images/products/samsungs21.png"
+        },
+        {
+            "id": 7,
+            "title": "Google Pixel 5",
+            "price": 800,
+            "description": "The Google Pixel 5 is known for its exceptional camera and stock Android experience...",
+            "image": "/assets/images/products/pixel5.png"
+        }
+    ]
+}
