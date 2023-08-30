@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Navbar } from "./components/navbar";
-import Home, { Shop } from "./components/Home";
-import { Contact } from "./components/Contact";
-import { Cart } from "./components/Cart";
+import { Shop } from "./pages/shop/shop";
+import { Contact } from "./pages/contact";
+import { Cart } from "./pages/cart/cart";
 import { ShopContextProvider } from "./context/shop-context";
 
 function App() {
@@ -14,7 +13,7 @@ function App() {
         <Router>
           <Navbar />
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/" element={<Shop />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/cart" element={<Cart />} />
           </Routes>
@@ -25,5 +24,3 @@ function App() {
 }
 
 export default App;
-=======
->>>>>>> 63830ed382ec95d531c0ecf9c13360efe6fae989

@@ -3,67 +3,57 @@ import product2 from "./assets/products/2.png";
 import product3 from "./assets/products/3.png";
 import product4 from "./assets/products/4.png";
 import product5 from "./assets/products/5.png";
-<<<<<<< Updated upstream
-import product6 from "./assets/products/6.webp";
-import product7 from "./assets/products/7.webp";
-import product8 from "./assets/products/8.webp";
-=======
 import product6 from "./assets/products/6.png";
 import product7 from "./assets/products/7.png";
 import product8 from "./assets/products/8.png";
->>>>>>> Stashed changes
 
 export const PRODUCTS = [
   {
     id: 1,
-<<<<<<< Updated upstream
-    productName: "IPhone",
-=======
     productName: "Lenovo Yoga",
->>>>>>> Stashed changes
-    price: 999.0,
+    price: 27000,
     productImage: product1,
   },
   {
     id: 2,
-    productName: "Macbook Pro 2022 (M1)",
-    price: 1999.0,
+    productName: "DELL INSPIRON",
+    price: 24000,
     productImage: product2,
   },
   {
     id: 3,
-    productName: "Cannon M50 Camera",
-    price: 699.0,
+    productName: "HP SPECTRE 360",
+    price: 170000,
     productImage: product3,
   },
   {
     id: 4,
-    productName: "WLS Van Gogh Denim Jacket",
-    price: 228.0,
+    productName: "LENOVO IDEAPAD 5",
+    price: 160000,
     productImage: product4,
   },
   {
     id: 5,
-    productName: "LED Light Strips",
-    price: 19.99,
+    productName: "MACBOOK PRO 2021 (M1)",
+    price: 189999,
     productImage: product5,
   },
   {
     id: 6,
-    productName: "SPECTRUM LS TEE",
-    price: 68.0,
+    productName: "HP ELITEBOOK 840 G4",
+    price: 31000,
     productImage: product6,
   },
   {
     id: 7,
-    productName: "AUTO SERVICE SHIRT by GOLF WANG",
-    price: 120.0,
+    productName: "HP ELITEBOOK 820 G2",
+    price: 15000,
     productImage: product7,
   },
   {
     id: 8,
-    productName: "DON'T TRIP UNSTRUCTURED HAT",
-    price: 40.0,
+    productName: "ACER THU PRO",
+    price: 18000,
     productImage: product8,
   },
 ];
