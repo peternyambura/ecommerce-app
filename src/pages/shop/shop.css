@@ -1,7 +1,13 @@
+*{
+  background-color: aquamarine;
+  margin: 0%;
+}
 .shopTitle {
+  background-color: aqua;
   margin-top: 100px;
   text-align: center;
   font-size: 40px;
+  width: 100%;
 }
 .products {
   width: 100%;
@@ -36,7 +42,7 @@
 }
 
 .addToCartBttn {
-  background-color: transparent;
+  background-color: bisque;
   border: 2px solid rgb(19, 19, 19);
   min-width: 100px;
   padding-left: 10px;
