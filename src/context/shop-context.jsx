@@ -24,11 +24,11 @@ export const ShopContextProvider = (props) => {
     }
     return totalAmount;
   };
-
+//function to add item to cart
   const addToCart = (itemId) => {
     setCartItems((prev) => ({ ...prev, [itemId]: prev[itemId] + 1 }));
   };
-
+//function to remove code from cart
   const removeFromCart = (itemId) => {
     setCartItems((prev) => ({ ...prev, [itemId]: prev[itemId] - 1 }));
   };
