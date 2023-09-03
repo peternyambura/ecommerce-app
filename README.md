@@ -1,6 +1,6 @@
 # Mopemada Shopping Site
 
-![Project Demo](misc/screenshot demo.png)
+[Project Demo](misc/screenshot demo.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
