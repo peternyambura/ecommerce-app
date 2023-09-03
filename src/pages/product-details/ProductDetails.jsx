@@ -1,10 +1,9 @@
-// ProductDetails.js
 import React, { useContext } from "react";
 import { ShopContext } from "../../context/shop-context";
 import { useParams, useNavigate } from "react-router-dom";
 import { PRODUCTS } from "../../products";
 
-export default function ProductDetails() { // Notice the default keyword here
+export default function ProductDetails() {
   const { id } = useParams();
   const { addToCart } = useContext(ShopContext);
   const navigate = useNavigate();
